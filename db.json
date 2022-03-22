@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Zenobio",
+      "empresa": "Links",
+      "email": "hola@hola.com",
+      "telefono": "741258",
+      "notas": "ssssssssssssssss",
+      "id": 1
+    },
+    {
+      "nombre": "gabriel",
+      "empresa": "Naturisa",
+      "email": "usuario@usuario.com",
+      "telefono": "1234456",
+      "notas": "fffffffffff",
+      "id": 2
+    },
+    {
+      "nombre": "Fernando",
+      "empresa": "BahiaCell",
+      "email": "Alex@Alex.com",
+      "telefono": "963258",
+      "notas": "aaaaaaaa",
+      "id": 3
+    },
+    {
+      "nombre": "Leydi",
+      "empresa": "IEES",
+      "email": "leydi@leydi.com",
+      "telefono": "456963",
+      "notas": "lllllllll",
+      "id": 5
+    }
+  ]
+}
